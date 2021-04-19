@@ -1,0 +1,13 @@
+C:\Users\Vitor\Documents\Projetos\ws-csharp\oop-with-csharp-basics\class27-csharp-problem-without-oop\application\application\bin\Debug\netcoreapp3.1\application.exe
+C:\Users\Vitor\Documents\Projetos\ws-csharp\oop-with-csharp-basics\class27-csharp-problem-without-oop\application\application\bin\Debug\netcoreapp3.1\application.deps.json
+C:\Users\Vitor\Documents\Projetos\ws-csharp\oop-with-csharp-basics\class27-csharp-problem-without-oop\application\application\bin\Debug\netcoreapp3.1\application.runtimeconfig.json
+C:\Users\Vitor\Documents\Projetos\ws-csharp\oop-with-csharp-basics\class27-csharp-problem-without-oop\application\application\bin\Debug\netcoreapp3.1\application.runtimeconfig.dev.json
+C:\Users\Vitor\Documents\Projetos\ws-csharp\oop-with-csharp-basics\class27-csharp-problem-without-oop\application\application\bin\Debug\netcoreapp3.1\application.dll
+C:\Users\Vitor\Documents\Projetos\ws-csharp\oop-with-csharp-basics\class27-csharp-problem-without-oop\application\application\bin\Debug\netcoreapp3.1\application.pdb
+C:\Users\Vitor\Documents\Projetos\ws-csharp\oop-with-csharp-basics\class27-csharp-problem-without-oop\application\application\obj\Debug\netcoreapp3.1\application.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\Projetos\ws-csharp\oop-with-csharp-basics\class27-csharp-problem-without-oop\application\application\obj\Debug\netcoreapp3.1\application.AssemblyInfoInputs.cache
+C:\Users\Vitor\Documents\Projetos\ws-csharp\oop-with-csharp-basics\class27-csharp-problem-without-oop\application\application\obj\Debug\netcoreapp3.1\application.AssemblyInfo.cs
+C:\Users\Vitor\Documents\Projetos\ws-csharp\oop-with-csharp-basics\class27-csharp-problem-without-oop\application\application\obj\Debug\netcoreapp3.1\application.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\Projetos\ws-csharp\oop-with-csharp-basics\class27-csharp-problem-without-oop\application\application\obj\Debug\netcoreapp3.1\application.dll
+C:\Users\Vitor\Documents\Projetos\ws-csharp\oop-with-csharp-basics\class27-csharp-problem-without-oop\application\application\obj\Debug\netcoreapp3.1\application.pdb
+C:\Users\Vitor\Documents\Projetos\ws-csharp\oop-with-csharp-basics\class27-csharp-problem-without-oop\application\application\obj\Debug\netcoreapp3.1\application.genruntimeconfig.cache
